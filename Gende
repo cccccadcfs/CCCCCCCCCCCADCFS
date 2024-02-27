@@ -1,0 +1,4 @@
+        setGender(inUser.getGender()); 
+        setStreet1(inUser.getStreet1()); 
+        setStreet2(inUser.getStreet2()); 
+        setCity(inUser.getCity()); 
