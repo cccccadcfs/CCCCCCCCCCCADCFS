@@ -1,0 +1,3 @@
+        setFirstName(inUser.getFirstName()); 
+        setLastName(inUser.getLastName()); 
+        setMiddleName(inUser.getMiddleName()); 
