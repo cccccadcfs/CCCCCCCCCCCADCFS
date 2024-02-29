@@ -1,0 +1,8 @@
+    location: 'US',
+    dryRun: true,
+  };
+
+  // Run the query as a job
+  const [job] = await bigquery.createQueryJob(options);
+
+  // Print the status and statistics
