@@ -1,0 +1,7 @@
+v                while (!over) {
+                    if (!myTank.isLive()) {
+                        selfMax--;
+                        if (selfMax < 0) {
+                            f.removeKeyListener(tw);
+                            over = true;
+                            win = false;
