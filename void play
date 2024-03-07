@@ -1,0 +1,4 @@
+    // public void playHitVoice(){
+    // if(Const.voiceMusicOn && soundIds[0]!=-1){
+    // mSoundPool.play(soundIds[0], 1.0f, 1.0f, 1, 0, 1.0f);
+    // }
