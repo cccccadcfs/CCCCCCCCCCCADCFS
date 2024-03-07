@@ -1,0 +1,3 @@
+    public void playVoice(int idx) {
+        if (Const.voiceMusicOn && soundIds[idx] != -1) {
+            mSoundPool.play(soundIds[idx], 1.0f, 1.0f, 1, 0, 1.0f);
