@@ -1,0 +1,8 @@
+			printf("Too Small! Press any key to try again!\n");
+		}
+		else if( Number > 30 && Number <= 50 )
+		{
+			printf("Small! Press any key to try again!\n");
+		}
+		else
+		{
