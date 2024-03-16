@@ -1,0 +1,4 @@
+    if failed == 0:        
+        print ("\nYou won") 
+        break              
+    guess = input("\nguess a character:") 
