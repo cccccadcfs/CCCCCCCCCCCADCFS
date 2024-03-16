@@ -1,0 +1,4 @@
+            print (char,end="")    
+        else:
+            print ("_",end=""),     
+            failed += 1   
