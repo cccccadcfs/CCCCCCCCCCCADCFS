@@ -1,0 +1,4 @@
+                arraydest[i] = array[i];
+            }
+        }
+        long useTime = System.currentTimeMillis()-start;
