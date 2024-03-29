@@ -1,0 +1,4 @@
+   Scanner scanner = new Scanner(System.in);
+   int chose = Integer.parseInt(scanner.nextLine().trim());
+   switch (chose) {
+   case 1:
