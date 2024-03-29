@@ -1,0 +1,7 @@
+    password = scanner.nextLine().trim();
+    adminserviceimpl.register(new Admin(name, password));
+    break;
+   case 3:
+    return;
+   default:
+    return;5465awq
